@@ -1,0 +1,5 @@
+1. welcome page to chose the category
+2. chose how many question the user want max 48
+3. chose the level of question hard, middle, easy
+4. start the test 
+5. after finish the test show result and play again .
